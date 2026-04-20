@@ -20,3 +20,4 @@ Pairplot visualization
 # Visualizations Included
 Count plot for target variable
 Histogram distribution plots
+Correlation heatmap
