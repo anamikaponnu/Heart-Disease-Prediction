@@ -5,3 +5,5 @@ The analysis is performed on the Cleveland Heart Disease Dataset to understand d
 
 # Dataset
 Cleveland Heart Disease Dataset with 13 clinical attributes and a binary target variable indicating presence or absence of heart disease.
+
+# EDA Steps Performed
