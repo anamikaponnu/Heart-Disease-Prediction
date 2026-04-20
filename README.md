@@ -13,9 +13,9 @@ Duplicate record detection,
 Target variable distribution,
 Feature distributions (histograms),
 Correlation heatmap,
-Feature vs target analysis (boxplots)
-Outlier detection using IQR method
-Pairplot visualization
+Feature vs target analysis (boxplots),
+Outlier detection using IQR method,
+Pairplot visualization,
 
 # Visualizations Included
 Count plot for target variable
