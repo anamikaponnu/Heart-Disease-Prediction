@@ -30,5 +30,5 @@ The goal of this branch is to:
 
 Understand data characteristics,
 Identify missing values and outliers,
-Study feature relationships
+Study feature relationships,
 Prepare for preprocessing and model building
