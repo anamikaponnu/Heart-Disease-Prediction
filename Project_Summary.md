@@ -1,18 +1,24 @@
 #PROJECT SUMMARY
 
 ## OVERVIEW
-This project focuses on predicting heart disease using machine learning techniques.
+This project leverages Machine Learning to assist in the early detection of cardiovascular diseases.
+By analyzing clinical parameters, the system provides a data-driven approach to identify high-risk patients, potentially aiding healthcare professionals in clinical decision-making.
 
 ## DATASET
-The dataset contains patient health information used to predict the presence of heart disease.
-The dataset is the Cleveland Heart Disease dataset taken from the UCI repository. The dataset consists of 303 individuals’ data. There are 14 columns in the dataset(which have been extracted from a larger set of 75). No missing values. The classification task is to predict whether an individual is suffering from heart disease or not. (0: absence, 1: presence)
+
+-Source: Cleveland Heart Disease dataset (UCI Machine Learning Repository).
+-Scale: 303 patient records with 14 key clinical features.
+-Nature: Binary classification (0: Healthy, 1: Heart Disease presence).
+-Data Quality: Validated for zero missing values and pre-processed for feature consistency.
 
 
 ## KEY CONTRIBUTIONS
-- Data balancing using SMOTE to handle class imbalance
-- Model training using Logistic Regression, Decision Tree, and Random Forest
-- Model evaluation using accuracy and classification metrics
-- Visualization using graphs and confusion matrix
+- Feature Engineering: Correlation analysis and feature scaling to optimize model input.
+- Advanced Data Balancing: Implemented SMOTE (Synthetic Minority Over-sampling Technique) to eliminate class bias, ensuring the model doesn't favor the majority class.
+- Comparative Modeling: Evaluated multiple architectures including Logistic Regression, Decision Trees, and Random Forest to identify the most robust predictor.
+-Diagnostic Visualization: Developed Confusion Matrices and ROC-AUC curves to visualize the trade-off between Sensitivity (catching all cases) and Specificity (reducing false alarms).
 
 ## CONCLUSION
-After balancing the dataset, model performance improved significantly. Among the models tested, Random Forest achieved the best results.
+The application of SMOTE was a turning point in this project, resolving the initial class imbalance and leading to a significant boost in the Recall score.
+While Logistic Regression provided a strong baseline, the Random Forest ensemble showed superior performance in handling non-linear relationships within the medical data. 
+The final model demonstrates that machine learning can achieve high diagnostic reliability, serving as an effective screening tool for heart disease.
