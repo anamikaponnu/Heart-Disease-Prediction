@@ -11,8 +11,8 @@ Dataset overview (shape, columns, data types),
 Missing value analysis,
 Duplicate record detection,
 Target variable distribution,
-Feature distributions (histograms)
-Correlation heatmap
+Feature distributions (histograms),
+Correlation heatmap,
 Feature vs target analysis (boxplots)
 Outlier detection using IQR method
 Pairplot visualization
