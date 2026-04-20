@@ -20,7 +20,7 @@ Pairplot visualization,
 # Visualizations Included
 Count plot for target variable,
 Histogram distribution plots,
-Correlation heatmap
+Correlation heatmap,
 Boxplots for outlier detection
 Feature vs target boxplots
 Pairplot
