@@ -17,3 +17,8 @@ The goal is to build a high-accuracy classifier using the Cleveland Heart Diseas
 3. Model Building: Trained Gradient Boosting and K-Nearest Neighbors (KNN).
 4. Evaluation: Achieved high performance as seen in the Confusion Matrix and ROC Curves below.
 
+##  Key Results
+  Best Model: Gradient Boosting Classifier = accuracy of 85.25%.
+  Accuracy: [85.25%]
+  ROC-AUC: [ 93.4\%]
+
