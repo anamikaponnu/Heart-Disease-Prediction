@@ -5,6 +5,8 @@ This project focuses on predicting heart disease using machine learning techniqu
 
 ## DATASET
 The dataset contains patient health information used to predict the presence of heart disease.
+The dataset is the Cleveland Heart Disease dataset taken from the UCI repository. The dataset consists of 303 individuals’ data. There are 14 columns in the dataset(which have been extracted from a larger set of 75). No missing values. The classification task is to predict whether an individual is suffering from heart disease or not. (0: absence, 1: presence)
+
 
 ## KEY CONTRIBUTIONS
 - Data balancing using SMOTE to handle class imbalance
