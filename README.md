@@ -21,9 +21,9 @@ Pairplot visualization,
 Count plot for target variable,
 Histogram distribution plots,
 Correlation heatmap,
-Boxplots for outlier detection
-Feature vs target boxplots
-Pairplot
+Boxplots for outlier detection,
+Feature vs target boxplots,
+Pairplot.
 
 # Purpose of This Branch
 The goal of this branch is to:
