@@ -15,7 +15,7 @@ Feature distributions (histograms),
 Correlation heatmap,
 Feature vs target analysis (boxplots),
 Outlier detection using IQR method,
-Pairplot visualization,
+Pairplot visualization.
 
 # Visualizations Included
 Count plot for target variable,
