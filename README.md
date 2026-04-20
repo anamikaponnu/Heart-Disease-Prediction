@@ -18,8 +18,8 @@ Outlier detection using IQR method,
 Pairplot visualization,
 
 # Visualizations Included
-Count plot for target variable
-Histogram distribution plots
+Count plot for target variable,
+Histogram distribution plots,
 Correlation heatmap
 Boxplots for outlier detection
 Feature vs target boxplots
