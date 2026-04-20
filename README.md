@@ -14,9 +14,12 @@
 
 
  
-Dataset Name: Heart Disease Cleveland Dataset
-Source: UCI Machine Learning Repository
-Link: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+Dataset Name:
+Heart Disease Cleveland Dataset
+Source: 
+UCI Machine Learning Repository
+Link:
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease-
 This dataset contains medical attributes such as age, sex, chest pain type, cholesterol levels, and more, used to predict the presence of heart disease.
 
 
