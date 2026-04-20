@@ -9,8 +9,8 @@ Cleveland Heart Disease Dataset with 13 clinical attributes and a binary target 
 # EDA Steps Performed
 Dataset overview (shape, columns, data types),
 Missing value analysis,
-Duplicate record detection
-Target variable distribution
+Duplicate record detection,
+Target variable distribution,
 Feature distributions (histograms)
 Correlation heatmap
 Feature vs target analysis (boxplots)
