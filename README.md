@@ -19,7 +19,7 @@ The goal is to build a high-accuracy classifier using the Cleveland Heart Diseas
 
 ## Deployment
 - Deployed using Streamlit Community Cloud - https://heart-disease-prediction-kepbwdmtxra68hh9gstb6o.streamlit.app/
-- App accepts patient inputs (manual entry or CSV upload)
+- App accepts patient inputs (manual entry)
 - Displays prediction (Heart Disease: Yes/No) with probability score
 - Shows SHAP waterfall plot for individual prediction explanation
 - Handles invalid inputs gracefully with clear error messages
