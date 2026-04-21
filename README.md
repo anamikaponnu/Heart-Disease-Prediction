@@ -25,7 +25,7 @@ The goal is to build a high-accuracy classifier using the Cleveland Heart Diseas
 - Handles invalid inputs gracefully with clear error messages
 
 ##  Key Results
-  Best Model: Logistic Regression
+  Best Model: Logistic Regression stands more suitable that gradient boosting.
   Accuracy: 90%
   ROC-AUC: 93.4\%
 
