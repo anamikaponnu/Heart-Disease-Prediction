@@ -25,8 +25,8 @@ The goal is to build a high-accuracy classifier using the Cleveland Heart Diseas
 - Handles invalid inputs gracefully with clear error messages
 
 ##  Key Results
-  Best Model: Gradient Boosting Classifier = accuracy of 85.25%.
-  Accuracy: 85.25%
+  Best Model: Logistic Regression
+  Accuracy: 90%
   ROC-AUC: 93.4\%
 
   
