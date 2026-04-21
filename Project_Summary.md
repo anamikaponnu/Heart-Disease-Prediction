@@ -1,4 +1,4 @@
-#PROJECT SUMMARY
+
 
 ## OVERVIEW
 This project leverages Machine Learning to assist in the early detection of cardiovascular diseases.
