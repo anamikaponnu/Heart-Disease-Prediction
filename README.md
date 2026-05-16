@@ -14,6 +14,12 @@ This project uses Machine Learning to predict the likelihood of heart disease in
 ##  Project Overview
 Heart disease is one of the leading causes of mortality worldwide. Early and accurate prediction can significantly improve patient outcomes. This project applies machine learning classification techniques to the Cleveland Heart Disease Dataset to predict whether a patient has heart disease based on 13 clinical attributes.
 
+##  Dataset
+
+Source: UCI Machine Learning Repository – Cleveland Heart Disease Dataset
+Instances: 303 patients
+Target Variable: target — 0 (No Disease) / 1 (Disease Present)
+
 ##  Tech Stack
   Language:Python
   Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
