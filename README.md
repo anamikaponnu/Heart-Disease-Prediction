@@ -1,5 +1,10 @@
+🫀 Heart Disease Prediction Using Patient Health Data
 
-# Heart Disease Prediction Project
+Predicting the presence or absence of heart disease using clinical attributes from the Cleveland Heart Disease Dataset.
+
+
+👥 Team Members
+NameMeera GSanika J RAnamika Ponnu
 
 This project uses Machine Learning to predict the likelihood of heart disease in patients based on medical clinical records.
 
