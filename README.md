@@ -17,7 +17,9 @@ Heart disease is one of the leading causes of mortality worldwide. Early and acc
 ##  Dataset
 
 Source: UCI Machine Learning Repository – Cleveland Heart Disease Dataset
+
 Instances: 303 patients
+
 Target Variable: target — 0 (No Disease) / 1 (Disease Present)
 
 ##  Tech Stack
