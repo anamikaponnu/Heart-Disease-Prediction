@@ -4,7 +4,10 @@ Predicting the presence or absence of heart disease using clinical attributes fr
 
 
 👥 Team Members
-NameMeera GSanika J RAnamika Ponnu
+Name
+1. Meera G
+2. Sanika J R
+3. Anamika Ponnu
 
 This project uses Machine Learning to predict the likelihood of heart disease in patients based on medical clinical records.
 
