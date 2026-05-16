@@ -12,7 +12,7 @@ Name
 This project uses Machine Learning to predict the likelihood of heart disease in patients based on medical clinical records.
 
 ##  Project Overview
-The goal is to build a high-accuracy classifier using the Cleveland Heart Disease dataset. We performed extensive feature engineering and compared multiple models, including KNN and Gradient Boosting, to find the most reliable diagnostic tool.
+Heart disease is one of the leading causes of mortality worldwide. Early and accurate prediction can significantly improve patient outcomes. This project applies machine learning classification techniques to the Cleveland Heart Disease Dataset to predict whether a patient has heart disease based on 13 clinical attributes.
 
 ##  Tech Stack
   Language:Python
